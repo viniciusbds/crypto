@@ -71,7 +71,7 @@ func main() {
 
 	// If we don't get any error from the `VerifyPSS` method, that means our
 	// signature is valid
-	fmt.Println("signature verified")
+	fmt.Println("assinatura verificada. tudo ok!")
 }
 
 func check(err error) {
