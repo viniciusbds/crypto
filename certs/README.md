@@ -1,0 +1,1 @@
+Essas chaves foram geradas pelo Arrebol Worker
